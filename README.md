@@ -51,7 +51,7 @@ class SomeClass {
 }
 ```
 
-* **1.6** When writing a type for a property, constant, variable, a key for a dictionary, a function argument, a protocol conformance, or a superclass, don't add a space before the colon.
+* **1.6** 속성, 상수, 변수, 딕셔너리에 대한 키, 함수 인자, 프로토콜 컨퍼런스, 또는 슈퍼클래스에 대한 코드를 작성할 때 콜론전에 스페이스를 추가하지 않습니다.
 
 ```swift
 // specifying type
@@ -100,7 +100,7 @@ func pancake(with syrup: Syrup) -> Pancake {
 }
 ```
 
-* **1.9** We follow Xcode's recommended indentation style (i.e. your code should not change if CTRL-I is pressed). When declaring a function that spans multiple lines, prefer using that syntax to which Xcode, as of version 7.3, defaults.
+* **1.9** 우리는 Xcode가 권장하는 들여쓰기 형식을 따르고 있습니다 (즉, 당신의 코드는 CTRL-I를 눌렀을 때 변경되지 않아야 합니다.). 여러 줄에 걸쳐 함수를 정의할 때, 기본적으로 Xcode 7.3 버전에 따라 작성하도록 하십시요.
 
 ```swift
 // Xcode indentation for a function declaration that spans multiple lines
@@ -120,7 +120,7 @@ if myFirstValue > (mySecondValue + myThirdValue)
 }
 ```
 
-* **1.10** When calling a function that has many parameters, put each argument on a separate line with a single extra indentation.
+* **1.10** 많은 인자들을 가진 함수를 호출할 때, 하나의 추가적인 들여쓰기를 가진 나누어진 줄에 각 인자를 작성합니다.
 
 ```swift
 someFunctionWithManyArguments(
