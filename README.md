@@ -29,11 +29,11 @@
 
 ## 1. Code Formatting
 
-* **1.1** Use 4 spaces for tabs.
-* **1.2** Avoid uncomfortably long lines with a hard maximum of 160 characters per line (Xcode->Preferences->Text Editing->Page guide at column: 160 is helpful for this)
-* **1.3** Ensure that there is a newline at the end of every file.
-* **1.4** Ensure that there is no trailing whitespace anywhere (Xcode->Preferences->Text Editing->Automatically trim trailing whitespace + Including whitespace-only lines).
-* **1.5** Do not place opening braces on new lines - we use the [1TBS style](https://en.m.wikipedia.org/wiki/Indentation_style#1TBS).
+* **1.1** 탭은 4 스페이스를 사용합니다.
+* **1.2** 한 줄당 최대 160자를 사요하도록 하여 불필요하게 긴 줄들이 생기지 않도록 합니다. (Xcode->Preferences->Text Editing->Page guide at column: 160 으로 설정하는 것이 도움이 됩니다.)
+* **1.3** 모든 파일의 끝에 빈 줄이 있도록 합니다.
+* **1.4** 모든 곳에서 쓸모없는 공백이 추가되지 않도록 합니다. (Xcode->Preferences->Text Editing->Automatically trim trailing whitespace + Including whitespace-only lines).
+* **1.5** 중괄호의 시작이 새로운 줄에 나오지 않도록 합니다 - 우리는 [1TBS style](https://en.m.wikipedia.org/wiki/Indentation_style#1TBS)를 사용합니다.
 
 ```swift
 class SomeClass {
