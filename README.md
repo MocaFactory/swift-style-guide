@@ -1,12 +1,12 @@
 # Swift Style Guide
 
-Make sure to read [Apple's API Design Guidelines](https://swift.org/documentation/api-design-guidelines/).
+반드시 [Apple's API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)을 읽어보도록 하십시요.
 
-Specifics from these guidelines + additional remarks are mentioned below.
+세부적인 사항들은 이 가이드라인과 추가적인 내용으로 기술됩니다.
 
-This guide was last updated for Swift 4.0 on February 14, 2018.
+이 안내서는 2018년 2월 14일에 Swift 4.0에 맞도록 갱신되었습니다.
 
-## Table Of Contents
+## 목차
 
 - [Swift Style Guide](#swift-style-guide)
     - [1. Code Formatting](#1-code-formatting)
